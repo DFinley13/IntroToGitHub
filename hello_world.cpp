@@ -3,6 +3,8 @@
 using namespace std;
 
 int main() {
-    cout <<
+    while (cin != 'e') {
+    cout << "Hello World" << endl;
+    }
     return 0;
 }
